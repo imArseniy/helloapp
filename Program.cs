@@ -8,6 +8,8 @@
     private static void Hello()
     {
         Console.WriteLine("hello everyone");
+        GreetWhite();
+        GreetBlack();
     }
 
     private static void GreetWhite()
